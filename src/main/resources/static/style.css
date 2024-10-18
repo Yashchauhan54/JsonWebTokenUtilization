@@ -1,0 +1,16 @@
+.btn{
+margin-top:20px;
+}
+h2{
+margin-bottom:20px;}
+
+body {
+      background-image: url('bgimg.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        font-family: 'Arial', sans-serif;
+        color: White;
+        margin: 0;
+        padding: 0;
+        }
